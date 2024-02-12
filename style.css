@@ -3,3 +3,18 @@
     margin: 5% 25% 5% 25%;
 
 }
+#h1centro{
+    text-align: center;
+}
+
+#botonS{
+
+    border-radius: 6px;
+    height: 50px;
+}
+
+#botonI{
+
+    border-radius: 6px;
+    height: 50px;
+}
