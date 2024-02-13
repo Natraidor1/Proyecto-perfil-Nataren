@@ -1,0 +1,12 @@
+header{
+    /*Ariiba,izquierda,abajo,derecha*/
+    margin: 0% 0% 5% 0%;
+    
+}
+.contenedor-cartas{
+    margin: 0% 0% 2% 0%;
+}
+
+.contenedor-cartas2{
+    margin: 0px 0px 0px 730px;
+}
