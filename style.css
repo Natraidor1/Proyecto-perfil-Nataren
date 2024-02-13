@@ -7,14 +7,41 @@
     text-align: center;
 }
 
-#botonS{
 
-    border-radius: 6px;
-    height: 50px;
-}
 
 #botonI{
 
     border-radius: 6px;
-    height: 50px;
+    height: 100px;
+    width: 200px;
+    margin-left: 40%;
+    margin-top: 5%;
+
+    
+}
+
+#botonS{
+    margin-left: 20%;
+    margin-top: 5%;
+    border-radius: 6px;
+    height: 50px; 
+    height: 100px;
+    width: 200px;
+
+    
+}
+
+button{
+    background-color: rgb(163, 163, 163);
+    transition: 1.0s;
+    color: white;
+}
+
+button:hover{
+    background-color: blue;
+}
+
+footer{
+    margin-top: 5%;
+    
 }
